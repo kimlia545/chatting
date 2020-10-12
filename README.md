@@ -1,8 +1,7 @@
 # Java Chatting Project
 
-# Project title
-
 # Motivation
+Programs that can implement server-client chat programs
 
 # Screenshots
 * Login & Main
